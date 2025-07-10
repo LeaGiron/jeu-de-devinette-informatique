@@ -44,6 +44,8 @@ Ce projet a pour but de pratiquer le JavaScript, la manipulation du DOM et l’i
 
 > Indice affiché : “Langage qui structure une page web”  
 > Saisie : `html` → ✅ Bravo !
+> Rechargez la page pour avoir un autre mot à deviner
+> Recommencez !
 
 ---
 
